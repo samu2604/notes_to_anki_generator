@@ -1,7 +1,7 @@
 # notes_to_anki_generator
 This is a script able to automatically transform your notes from a language lesson in an Anki deck useful to learn the existing vocabulary.
 
-Your notes shall be written in a .txt format and the specific path shall be included in the open function inside quiz.py 
+Your notes shall be written in a .txt format and your specific paths shall be updated in the open function inside quiz.py and in the WriteDeckToFile function
 
 To use it you need to import the [genanki](https://github.com/kerrickstaley/genanki) external library 
 
